@@ -39,7 +39,7 @@ mat = np.array([
 mat
 
 # %%
-v = np.arange(12)
+v = np.arange(13)
 v
 
 # %%

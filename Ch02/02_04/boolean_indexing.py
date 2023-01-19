@@ -11,7 +11,7 @@ arr[[True, False, True]]
 arr >= 1
 
 # %%
-arr[arr >= 1]
+arr[(arr >= 1)]
 
 # %%
 arr = np.arange(10)
@@ -35,3 +35,4 @@ values[mask]
 
 # %%
 values[mask] = values.mean()
+# %%
